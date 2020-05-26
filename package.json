@@ -1,0 +1,28 @@
+{
+  "name": "node-app",
+  "version": "0.0.1",
+  "description": "Hello Jenkins test app",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "./node_modules/.bin/mocha ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalie8484/node-app.git"
+  },
+  "author": "Vitalie Jurjiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitalie8484/node-app/issues"
+  },
+  "homepage": "https://github.com/vitalie8484/node-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^7.2.0",
+    "supertest": "^4.0.2"
+  }
+}
