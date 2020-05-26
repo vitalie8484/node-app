@@ -1,7 +1,7 @@
 {
-  "name": "node-app",
-  "version": "0.0.38",
-  "description": "Hello Jenkins test app",
+  "name": "vitalie.ml",
+  "version": "0.0.39",
+  "description": "Web site vitalie.ml",
   "private": true,
   "main": "vitalie.ml.js",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vitalie8484/node-app.git"
+    "url": "git+https://github.com/vitalie8484/vitalie.ml.git"
   },
   "author": "Vitalie Jurjiu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vitalie8484/node-app/issues"
+    "url": "https://github.com/vitalie8484/vitalie.ml/issues"
   },
-  "homepage": "https://github.com/vitalie8484/node-app#readme",
+  "homepage": "https://github.com/vitalie8484/vitalie.ml#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
