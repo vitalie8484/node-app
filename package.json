@@ -1,6 +1,6 @@
 {
   "name": "node-app",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Hello Jenkins test app",
   "private": true,
   "main": "vitalie.ml.js",
