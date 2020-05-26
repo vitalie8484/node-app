@@ -1,4 +1,4 @@
-ssh ezderman@NODE.SERVER.IP <<EOF
+ssh ubuntu@localhost <<EOF
     cd ~/public_html/nodejs/vitalie.ml
     git pull
     npm install — production
