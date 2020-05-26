@@ -1,3 +1,4 @@
+#!/bin/sh
 ssh -t -t ubuntu@localhost <<EOF
     cd ~/public_html/nodejs/vitalie.ml
     git pull
