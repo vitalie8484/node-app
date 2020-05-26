@@ -4,6 +4,8 @@ ssh ubuntu@localhost <<EOF
     git pull
     whoami
     echo $PATH
-    pm2 restart all
+    which node
+    which npm
+    which pm2
     exit
 EOF
