@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "description": "Hello Jenkins test app",
   "private": true,
-  "main": "index.js",
+  "main": "vitalie.ml.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node vitalie.ml.js",
     "test": "./node_modules/.bin/mocha ./test/test.js"
   },
   "repository": {

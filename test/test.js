@@ -1,5 +1,5 @@
 var request = require('supertest');
-var app = require('../index.js');
+var app = require('../vitalie.ml.js');
 
 describe('GET /', function () {
     it('Respond with "hello world"', function (done) {
