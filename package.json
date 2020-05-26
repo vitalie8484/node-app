@@ -1,11 +1,11 @@
 {
   "name": "node-app",
-  "version": "0.0.35",
+  "version": "0.0.36",
   "description": "Hello Jenkins test app",
   "private": true,
   "main": "vitalie.ml.js",
   "scripts": {
-    "start": "node vitalie.ml.js",
+    "start": "set PORT=2001 && node vitalie.ml.js",
     "test": "./node_modules/.bin/mocha ./test/test.js --exit"
   },
   "repository": {
