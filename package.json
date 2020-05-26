@@ -6,7 +6,7 @@
   "main": "vitalie.ml.js",
   "scripts": {
     "start": "node vitalie.ml.js",
-    "test": "./node_modules/.bin/mocha ./test/test.js"
+    "test": "./node_modules/.bin/mocha ./test/test.js --exit"
   },
   "repository": {
     "type": "git",
