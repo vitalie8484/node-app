@@ -5,7 +5,7 @@
   "private": true,
   "main": "vitalie.ml.js",
   "scripts": {
-    "start": "set PORT=3000 && node vitalie.ml.js",
+    "start": "node vitalie.ml.js",
     "test": "./node_modules/.bin/mocha ./test/test.js"
   },
   "repository": {
